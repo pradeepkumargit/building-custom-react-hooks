@@ -1,10 +1,6 @@
-# React Todos with Hooks
+# Build Custom React Hooks
 
-A simple demo project to help people get started using:
-- `useState`
-- `useContext`
-- `useRef`
-- `useEffect`
+I have build custom react Hooks to reuse the logic in ReactJs app
 
 ## Running the app
 
